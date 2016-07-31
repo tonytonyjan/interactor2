@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = 'Small, simple and dependency-free service object.'
   s.author      = 'Jian Weihang'
   s.email       = 'tonytonyjan@gmail.com'
-  s.files       = ['lib/interactor2']
+  s.files       = ['lib/interactor2.rb']
   s.homepage    = 'https://github.com/tonytonyjan/interactor2'
   s.required_ruby_version = '~> 2.0'
   s.add_development_dependency 'rubocop', '~> 0.41'
